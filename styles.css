@@ -110,7 +110,7 @@ section.carrosel{
 .nav-manual, .nav-auto{
     position: absolute;
     width: 100%;
-    bottom: -700px;
+    bottom: -800px; /*para imput (bolinha) ficar embaixo do carrossel*/
     display: flex;
     justify-content: center;
 }
@@ -189,7 +189,7 @@ section.carrosel{
 }
 
 .btn-15:hover {
-    color: #fff;  /* Muda a cor do texto ao passar o mouse */
+    color: maroon;  /* Muda a cor do texto ao passar o mouse */
 }
 
 .btn-15:hover:after {
