@@ -110,7 +110,7 @@ section.carrosel{
 .nav-manual, .nav-auto{
     position: absolute;
     width: 100%;
-    bottom: -800px; /*para imput (bolinha) ficar embaixo do carrossel*/
+    bottom: -600px; /*para imput (bolinha) ficar embaixo do carrossel*/
     display: flex;
     justify-content: center;
 }
